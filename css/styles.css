@@ -12,6 +12,7 @@ body {
 label {
     display: block;
     font-size: 20px;
+    padding-bottom: 30px;
 }
 
 input[type=text],
